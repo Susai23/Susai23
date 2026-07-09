@@ -6,7 +6,7 @@ Data Analyst with hands-on experience turning raw data into decisions — combin
 - 📊 Comfortable across the full pipeline: SQL querying → Python analysis → Power BI reporting
 - 🤖 Exploring applied ML (regression, time-series forecasting) to extend analysis into prediction
 - 🌱 Currently deepening skills in statistical analysis and model evaluation
-- 📫 Reach me: [LinkedIn](#) · [Email](mailto:susairaja24@gmail.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/susairaj-anthony-692382169/) · [Email](mailto:susairaja24@gmail.com)
 
 ---
 
