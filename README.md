@@ -35,8 +35,3 @@ Data Analyst with hands-on experience turning raw data into decisions — combin
 
 ---
 
-#### 📈 GitHub Stats
-
-![Susairaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Susai23&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Susai23&layout=compact)
-
