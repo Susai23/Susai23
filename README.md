@@ -26,9 +26,9 @@ Data Analyst with hands-on experience turning raw data into decisions — combin
 
 | Project | Description |
 |---|---|
+| [Lincolnshire Adult Social Care Pipeline](https://github.com/Susai23/Lincolnshire-Adult-Social-Care-pipeline) | End-to-end pipeline (Python → SQL/SQLite → Power BI) analyzing outcomes, demand, and provider quality using ONS, DHSC ASCOF, and CQC open data |
 | [Stock Market Analysis (LSTM & Prophet)](https://github.com/Susai23/Project-Stock-Market-Analysis) | Forecasted Barclays PLC stock trends (2004–2024) using LSTM and Prophet time-series models |
 | [UK Insurance Market Dashboard](https://github.com/Susai23/UK-Insurance-Market-Dashboard) | Power BI dashboard analyzing the UK insurance market using FCA, ONS, and Kaggle datasets |
-| [Lincolnshire Adult Social Care Pipeline](https://github.com/Susai23/Lincolnshire-Adult-Social-Care-pipeline) | End-to-end pipeline (Python → SQL/SQLite → Power BI) analyzing outcomes, demand, and provider quality using ONS, DHSC ASCOF, and CQC open data |
 | [ML Linear Regression Model](https://github.com/Susai23/ML-Linear-Regression-Model) | Regression modeling project applying core supervised learning techniques |
 | [Power BI Projects](https://github.com/Susai23/Power-Bi-Projects) | Collection of Power BI dashboards and reports |
 | [DHV Assignment](https://github.com/Susai23/DHV-Assignment) | Data handling and visualization exercise in Python |
