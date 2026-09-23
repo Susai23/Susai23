@@ -26,8 +26,8 @@ Data Analyst with hands-on experience turning raw data into decisions — combin
 
 | Project | Description |
 |---|---|
-| [Fraud Detection Pipeline](https://github.com/Susai23/fraud-detection-pipeline) | End-to-end transaction fraud detection pipeline in Python: ingestion, preprocessing, feature engineering, model training, and evaluation with imbalance-aware metrics (precision, recall, PR-AUC) |
 | [Lincolnshire Adult Social Care Pipeline](https://github.com/Susai23/Lincolnshire-Adult-Social-Care-pipeline) | End-to-end pipeline (Python → SQL/SQLite → Power BI) analyzing outcomes, demand, and provider quality using ONS, DHSC ASCOF, and CQC open data |
+| [Fraud Detection Pipeline](https://github.com/Susai23/fraud-detection-pipeline) | End-to-end transaction fraud detection pipeline in Python: ingestion, preprocessing, feature engineering, model training, and evaluation with imbalance-aware metrics (precision, recall, PR-AUC) |
 | [Stock Market Analysis (LSTM & Prophet)](https://github.com/Susai23/Project-Stock-Market-Analysis) | Forecasted Barclays PLC stock trends (2004–2024) using LSTM and Prophet time-series models |
 | [UK Insurance Market Dashboard](https://github.com/Susai23/UK-Insurance-Market-Dashboard) | Power BI dashboard analyzing the UK insurance market using FCA, ONS, and Kaggle datasets |
 | [ML Linear Regression Model](https://github.com/Susai23/ML-Linear-Regression-Model) | Regression modeling project applying core supervised learning techniques |
